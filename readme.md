@@ -1,32 +1,53 @@
-# Automation_Intro
+# Automation Intro
 
-Source code and project resources for Automation_Intro.
+**Learning archive** · An introductory JavaScript automation exercise.
 
 ## Overview
 
-This repository contains the source code and resources for **Automation_Intro**.
+An introductory JavaScript automation exercise.
 
-## Technologies
+## Technology Stack
 
-- JavaScript
+- `Node.js`
+- `Puppeteer`
+- `JavaScript`
 
-## Getting Started
+## How the Repository Works
 
-```bash
-git clone https://github.com/Kanishq10/Automation_Intro.git
-cd Automation_Intro
+```mermaid
+flowchart LR
+    N0["Repository input<br/> Files, datasets, or user actions"]
+    N1["Core logic<br/> Apply project-specific processing"]
+    N0 --> N1
+    N2["Result<br/> Display, export, or store the outcome"]
+    N1 --> N2
 ```
 
-Review the project files and configuration to install dependencies and start the application.
+| Stage | Responsibility |
+|---|---|
+| **Repository input** | Files, datasets, or user actions |
+| **Core logic** | Apply project-specific processing |
+| **Result** | Display, export, or store the outcome |
 
-## Repository Contents
+## Concepts Covered
+
+- JavaScript runtime
+- Asynchronous I/O
+- Modules and packages
+- HTTP or CLI workflows
+- External integrations
+
+## Repository Map
 
 - `.gitignore`
 - `intro.js`
 - `package-lock.json`
 - `package.json`
-- `readme.md`
 
-## Contributing
+## Recruiter Summary
 
-Contributions are welcome. Fork the repository, create a feature branch, and open a pull request.
+This repository shows hands-on practice, iterative learning, and problem-solving across the technologies listed above. It is most useful as evidence of foundational growth and experimentation rather than as a production release.
+
+---
+
+<sub>Documentation is concise and project-focused; source code was not modified.</sub>
